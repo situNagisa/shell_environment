@@ -1,2 +1,6 @@
 x86_64-*/
 aarch64-*/
+gcc/
+toolchain/
+build_env.sh
+proxy.sh
